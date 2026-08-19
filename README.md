@@ -56,6 +56,7 @@ languages: [Persian (native), English (intermediate)]
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
   <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=swagger&logoColor=white" alt="REST API" />
   <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.io" />
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
@@ -158,6 +159,31 @@ languages: [Persian (native), English (intermediate)]
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
         <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
         <img src="https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3 align="center">☀️ Solar EPC Contract Management <sub>(private)</sub></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Commercial%20project-6C757D?style=for-the-badge&logoColor=white" alt="Commercial project" />
+      </p>
+      <p>
+        Production back-end for a solar power-plant EPC contractor — companies, departments,
+        positions, contracts, <b>WBS</b> and volume/BOQ tracking, with position-based
+        <b>feature-permission</b> access control, <b>MinIO</b> file storage, bilingual
+        (English/Persian) domain error handling and a fully documented <b>Swagger</b> API
+        used to generate a typed client for the front-end team. Built with <b>NestJS 11</b>
+        and <b>Prisma 7</b> on the new driver-adapter, deployed to a Linux/PM2/Nginx production
+        environment alongside a separate staging instance.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+        <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" />
+        <img src="https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white" />
       </p>
     </td>
   </tr>
