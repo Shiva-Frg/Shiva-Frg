@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Shiva-Frg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Back-End+Developer+%7C+3%2B+years+of+experience;Node.js+%C2%B7+NestJS+%C2%B7+Express.js;PostgreSQL+%C2%B7+MongoDB+%C2%B7+Redis;Building+scalable+APIs+%26+Microservices" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00B4D8&center=true&vCenter=true&width=680&lines=Back-End+Developer+%7C+3%2B+years+of+experience;Node.js+%C2%B7+NestJS+%C2%B7+Express.js;PostgreSQL+%C2%B7+MongoDB+%C2%B7+Redis;Building+scalable+APIs+%26+Microservices" alt="Typing SVG" />
   </a>
 </p>
 
@@ -32,7 +32,6 @@ languages: [Persian (native), English (intermediate)]
 ```
 
 - 🔭 &nbsp;**3+ years** designing, developing and maintaining scalable web applications and RESTful APIs
-- 🏢 &nbsp;Back-End Developer at **Rsee** — reservation platforms with online payment, wallet & multi-service architecture
 - 🐘 &nbsp;Strong in **PostgreSQL** database design, query optimization and migrations with **Flyway**
 - 🐧 &nbsp;Comfortable on **Linux servers** — deployment, **Nginx**, **PM2** and production configuration
 - 🌱 &nbsp;Currently going deeper into **Microservices Architecture** with **NestJS** & **TypeScript**
